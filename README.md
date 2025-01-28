@@ -12,7 +12,7 @@ O projeto permite adicionar múltiplos nomes, visualizá-los e ao clicar no bot�
 - Sortear um amigo secreto ao clicar no botão "Sortear amigo".
 - Exibir o nome do amigo sorteado na tela.
 
-##Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - HTML: Estrutura da página.
 - CSS: Estilização e layout do projeto.
 - JavaScript: Lógica para adicionar nomes e sortear o amigo secreto.
