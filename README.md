@@ -18,8 +18,6 @@ O projeto permite adicionar múltiplos nomes, visualizá-los e ao clicar no bot�
 - JavaScript: Lógica para adicionar nomes e sortear o amigo secreto.
 
 ## Como executar
-
-1. Clone o repositório:
   - git clone
   - Vá até a pasta do projeto
   - cd challenge-amigo-secreto_pt-main
